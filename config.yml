@@ -1,19 +1,10 @@
 title: "Prof. (Dr.) Meera S. Patel"
 description: "Professor & Head, Department of Education, Gujarat University"
 theme: jekyll-theme-minimal
-logo: /assets/profile.jpg   # optional, place your photo in assets folder
+logo: /assets/profile.jpg   # Optional: Add profile image in assets folder
 show_downloads: true
-google_analytics:   # optional, add tracking ID if you want analytics
-
-# Social media links (optional)
-social_links:
-  email: meera.patel@gujaratuniv.edu.in
-  linkedin: https://www.linkedin.com/in/meera-patel
-  scholar: https://scholar.google.com/citations?user=YourID
-  orcid: https://orcid.org/0000-0000-0000-0000
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
