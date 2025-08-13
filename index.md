@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Prof. (Dr.) Meera S. Patel - Resume"
+title: "Home"
 ---
+
+[Home](/) | [Projects](/projects) | [Publications](/publications)
 
 # Prof. (Dr.) Meera S. Patel  
 **Professor & Head, Department of Education**  
@@ -33,26 +35,6 @@ title: "Prof. (Dr.) Meera S. Patel - Resume"
 
 ---
 
-## Research Publications (Selected)
-1. *Impact of Blended Learning on Teacher Training Programs* - *Indian Journal of Educational Research*, 2022  
-2. *Inclusive Education: Policies and Practices in India* - *Journal of Educational Innovations*, 2021  
-3. *Mindfulness Practices for Teachers* - *International Journal of Education & Psychology*, 2020  
-
----
-
-## Papers Presented at International Seminars
-1. *Futuristic Pedagogies for Diverse Classrooms* - International Conference, University of Cambridge, UK (2023)  
-2. *Technology-Integrated Inclusive Education* - World Education Summit, Dubai (2022)  
-3. *Role of Socio-Emotional Learning in Teacher Education* - Asia-Pacific Education Conference, Singapore (2021)  
-
----
-
-## Memberships
-- Life Member - All India Association for Educational Research (AIAER)  
-- Member - Comparative Education Society of India (CESI)  
-
----
-
 ## Awards & Recognition
 - *Best Researcher Award* - Gujarat University (2021)  
 - *National Award for Innovative Teaching in Teacher Education* - Ministry of Education, Govt. of India (2019)  
@@ -73,3 +55,7 @@ title: "Prof. (Dr.) Meera S. Patel - Resume"
 - Painting and sketching  
 - Travelling to heritage sites  
 - Blogging about innovations in teaching  
+
+---
+
+📄 **[Download My Resume (PDF)](/assets/Professor_Biodata.pdf)**
